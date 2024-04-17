@@ -6,5 +6,5 @@ Le projet a été réalisé dans le cadre d'un module en analyse de donnée enca
 ## Contenu du Projet
 Ce dépôt contient :
 
-- Des notebooks Jupyter contenant le code utilisé pour l'analyse des données, la création des modèles prédictifs et l'affichage des résultats à l'aide de graphiques.
+- Des notebooks Jupyter contenant le code utilisé pour l'analyse des données, la création des modèles prédictifs et l'affichage des résultats à l'aide de graphiques et d'images.
 - Des modules créés spécifiquement pour ce projet, incluant des fonctions réutilisables et des classes pour le traitement des données et la modélisation.
