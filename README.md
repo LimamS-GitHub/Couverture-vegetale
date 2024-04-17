@@ -1,1 +1,3 @@
-Vous trouverez ici un projet réalisé en analyse de données dans où j'analyse des données optiques et radar pour en extraire des informations sur la couverture végétale d'une zone bien spécifique (mine Barro Alto - Nickel (Brésil)).
+Projet d'Analyse de Données - Couverture Végétale à la Mine Barro Alto (Brésil)
+Ce projet d'analyse de données se concentre sur l'exploitation de données optiques et radar pour extraire des informations sur la couverture végétale dans une zone spécifique : la mine Barro Alto Nickel située au Brésil.
+
